@@ -1,0 +1,23 @@
+Link to my website: https://bdaylor13.github.io/hw3_pages/hikes.html
+
+
+Style Choices:
+
+I implemented three main customizations to make the website visually appealing and unique:
+1. Custom Fonts & Typography:
+- I set the font to 'Trebuchet MS', sans-serif for a clean, readable style.
+- Headers (h1 and h2) have different sizes to create visual hierarchy between the home page and the second page.
+2. Color Scheme:
+- Header uses a dark green background (#2f5233) to reflect a nature/hiking theme.
+- Main content background is a light, soothing color (#f0f8f5).
+- Footer uses a soft background (#e8f0eb) with complementary text color (#555).
+- Navigation links change color slightly on hover to improve user experience.
+3. Layout & Spacing:
+- Centered the main content with max-width: 800px for readability.
+- Added custom margins and padding to sections and images to make the site visually balanced.
+- Images have rounded corners and are displayed centered on the page.
+- Navigation links are spaced and styled to be clear and user-friendly.
+4. Additional touches:
+- Clickable LinkedIn link in the footer.
+- Navigation bar allows seamless movement between Home (index.html) and Hikes (hikes.html).
+- Lists and headings formatted for readability.
